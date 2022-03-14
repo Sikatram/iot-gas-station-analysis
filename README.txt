@@ -7,7 +7,7 @@ The csv files included in this project were collected by myself by going to gas 
 
 Each file's time spans approximately 20 minutes
 
-Two files were generated at Mobil stations -- (one in downtown San Diego and one in the San Diego county's outskirts)
+Two files were generated at Mobil stations -- (one in downtown San Diego and one in San Diego County's outskirts)
 The other file, varso_gas.csv, was generated in a rural area and not as commercial as the Mobil brand
 
 Run $python main.py to see results
